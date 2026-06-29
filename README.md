@@ -81,8 +81,6 @@ Here's what ASTRYX can do:
   <b>itsfizys</b>
 </div>
 
-## �� License
-
 ISC
 =======
 - `npm start` - run the bot.
