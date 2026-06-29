@@ -13,3 +13,4 @@ Multipurpose Discord bot with slash, prefix, and hybrid commands.
 
 - `npm start` - run the bot.
 - `npm run check` - syntax-check project JavaScript files.
+-  - `credits` - itsfizys
