@@ -84,5 +84,4 @@ ISC
 =======
 - `npm start` - run the bot.
 - `npm run check` - syntax-check project JavaScript files.
--  `credits` - itsfizys
 =======
