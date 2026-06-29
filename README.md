@@ -32,7 +32,6 @@ Here's what ASTRYX can do:
 
 ## 🚀 Setup
 
-<<<<<<< HEAD
 1. **Copy the env file**:
    ```bash
    cp .env.example .env
