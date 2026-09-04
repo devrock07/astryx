@@ -1,10 +1,11 @@
-<div align="center">
 > [!WARNING]
 > **This project has been archived.**
 >
 > Active development, improvements, bug fixes, and feature updates have been discontinued.
 >
 > The project will remain publicly available, and you are **free to use, fork, and modify it** according to the project's license. However, no further updates or official support are planned.
+
+<div align="center">
 
 # ✨ ASTRYX
 
